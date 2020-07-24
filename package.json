@@ -29,7 +29,7 @@
     "gulp-sourcemaps": "2.4.1",
     "gulp-tar": "1.9.0",
     "gulp-zip": "4.0.0",
-    "moment": "2.17.1",
+    "moment": "2.27.0",
     "rcedit": "0.8.0",
     "request": "2.81.0",
     "require-dir": "0.3.1"
